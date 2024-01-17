@@ -36,7 +36,7 @@ Los principales acusados de los accidentes son los autos, los pasajeros y los ve
 
 **Tipo de encuentro**
 
-![Tipo_de_encuentro]Imagenes/Tipo_de_encuentro.png)
+![Tipo_de_encuentro](magenes/Tipo_de_encuentro.png)
 
 
 Los accidentes ocurren más en las esquinas que en medio de las calles, esto era algo que se esperaba. Explorando un poco más la información se determinó que en verano ocurren la mayor parte los accidentes en cruces, esto se puede deber a cortes de luz que afectan las señalizaciones; de noche se puede observar en las calles semáforos con señales confusas, esto sumado a que en este horario puede haber personas bajo el efecto del alcohol conduciendo. Lo que se debe hacer es garantizar el correcto funcionamiento de los semáforos en las esquinas.
