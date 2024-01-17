@@ -3,7 +3,7 @@
 Este es un proyecto centrado en el análisis de los accidentes ocurridos en la Ciudad Autónoma de Buenos Aires entre el 2016 y el 2021,en este espacio vamos a analizar las diferentes tendencias y patrones que se encontraron explorando los datos.
 
 
-![Franja](https://github.com/Fsando1993/Siniestros-viales/edit/main/Imagenes/Franja.png)
+![Franja](Imagenes/Franja.png)
 
 
 
