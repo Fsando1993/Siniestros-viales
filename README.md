@@ -1,14 +1,10 @@
 # **Siniestros Viales**
+![Imagen](https://camo.githubusercontent.com/c89e484e93d62f006114729075599dc6d77933f4eb199f15e0189a5180f4a973/68747470733a2f2f7374617469632e6c616a6f726e61646165737461646f64656d657869636f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f53696e69657374726f732d7669616c65732e6a7067)
+
+
 
 Este es un proyecto centrado en el análisis de los accidentes ocurridos en la Ciudad Autónoma de Buenos Aires entre el 2016 y el 2021,en este espacio vamos a analizar las diferentes tendencias y patrones que se encontraron explorando los datos.
 
-
-Herramientas
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Python
-**Pandas
-**Power BI
-**Git
 
 
 
