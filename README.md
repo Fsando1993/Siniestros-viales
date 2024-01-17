@@ -1,9 +1,17 @@
 # **Siniestros Viales**
 ![Imagen]((https://www.tiempoar.com.ar/wp-content/uploads/2022/12/informe-referido-a-accidentes-viales-en-la-provincia-de-Buenos-Aires.-foto-Telam-.jpg)
 
+<!-- ![Static Badge](https://img.shields.io/badge/holamundo-ffffff?style=for-the-badge&logo=Python) -->
+* <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Python-131517?style=for-the-badge&logo=Python"> <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Numpy-131517?style=for-the-badge&logo=numpy"> <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Pandas-131517?style=for-the-badge&logo=pandas"> <img src="https://img.shields.io/badge/MatPlot-131517?style=for-the-badge&amp;logo=Alwaysdata&amp;logoColor=white;" style="width: 115px"> <img src="https://img.shields.io/badge/SeaBorn-131517?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" style="width: 115px"> <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-131517?style=for-the-badge&logo=sqlalchemy">
+
+* <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/PowerBI-131517?style=for-the-badge&logo=powerbi">
+<!-- <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/VisualStudioCode-131517?style=for-the-badge&logo=visualstudiocode">-->
+
 
 
 Este es un proyecto centrado en el análisis de los accidentes ocurridos en la Ciudad Autónoma de Buenos Aires entre el 2016 y el 2021,en este espacio vamos a analizar las diferentes tendencias y patrones que se encontraron explorando los datos.
+
+
 
 
 
