@@ -2,8 +2,7 @@
 ![Imagen]((https://www.tiempoar.com.ar/wp-content/uploads/2022/12/informe-referido-a-accidentes-viales-en-la-provincia-de-Buenos-Aires.-foto-Telam-.jpg)
 
 <!-- ![Static Badge](https://img.shields.io/badge/holamundo-ffffff?style=for-the-badge&logo=Python) -->
-* <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Python-131517?style=for-the-badge&logo=Python"> <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Numpy-131517?style=for-the-badge&logo=numpy"> <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Pandas-131517?style=for-the-badge&logo=pandas"> <img src="https://img.shields.io/badge/MatPlot-131517?style=for-the-badge&amp;logo=Alwaysdata&amp;logoColor=white;" style="width: 115px">src="https://img.shields.io/badge/SQLAlchemy-131517?style=for-the-badge&logo=sqlalchemy">
-
+* <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Python-131517?style=for-the-badge&logo=Python"> <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Numpy-131517?style=for-the-badge&logo=numpy"> <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Pandas-131517?style=for-the-badge&logo=pandas">
 * <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/PowerBI-131517?style=for-the-badge&logo=powerbi">
 <!-- <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/VisualStudioCode-131517?style=for-the-badge&logo=visualstudiocode">-->
 
