@@ -86,7 +86,7 @@ En el gráfico se observan los barrios más afectados por los accidentes mortale
 
 - [Dataset Lesiones](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
 - [Dataset Homicidios](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
-- [Dataset PDE (Población Total Estimada)](https://www.estadisticaciudad.gob.ar/eyc/?p=76599)
+  
 
 ### informacion complementaria
 -[Victimas de homicidios dolosos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-34-108)
