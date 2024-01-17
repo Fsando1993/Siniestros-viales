@@ -1,5 +1,8 @@
 # **Siniestros Viales**
-![Imagen](https://camo.githubusercontent.com/c89e484e93d62f006114729075599dc6d77933f4eb199f15e0189a5180f4a973/68747470733a2f2f7374617469632e6c616a6f726e61646165737461646f64656d657869636f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f53696e69657374726f732d7669616c65732e6a7067)
+![Imagen](https://camo.githubusercontent.com/c89e484e93d62f006114729075599dc6d77933f4eb199f15e0189a5180f4a973/68747470733a2f2f7374617469632e6c616a6f726e61646165737461646f64656d657869636f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f53696e69657374726f732d7669616c65732e6a7067)  
+
+
+## Herramientas
 <!-- ![Static Badge](https://img.shields.io/badge/holamundo-ffffff?style=for-the-badge&logo=Python) -->
 * <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Python-131517?style=for-the-badge&logo=Python"> <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Numpy-131517?style=for-the-badge&logo=numpy"> <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Pandas-131517?style=for-the-badge&logo=pandas">
 * <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/PowerBI-131517?style=for-the-badge&logo=powerbi">
@@ -81,12 +84,7 @@ En el gráfico se observan los barrios más afectados por los accidentes mortale
 3.- Comparar el desempeño de Buenos Aires con otras capitales del Mundo
 
 
-## Herramientas
 
-- Python
-- Pandas
-- Power BI
-- Git
 
 ## Recursos
 
