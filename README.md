@@ -76,5 +76,35 @@ En el gráfico se observan los barrios más afectados por los accidentes mortale
 
 2.- Estudiar mejor las leyes de tránsito del pais para saber qué se puede modificar en la ley de tal forma que disminuyan los siniestros viales.
 
-3.- Comparar el desempeño de Buenos Aires con otras capitales del Mundo, por ejemplo Bogotá y Ciudad de México serían buenas alternativas para comparar datos y leyes de movilidad.
-# Siniestros-viales
+3.- Comparar el desempeño de Buenos Aires con otras capitales del Mundo
+
+
+## Herramientas
+
+- Python
+- Pandas
+- Power BI
+- Git
+
+## Recursos
+
+- [Dataset Lesiones](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
+- [Dataset Homicidios](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
+- [Dataset PDE (Población Total Estimada)](https://www.estadisticaciudad.gob.ar/eyc/?p=76599)
+
+### informacion complementaria
+-[Victimas de homicidios dolosos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-34-108)
+
+-[Victimas de lesiones dolosas](https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-34-108)
+
+-[Investigaciones de seguridad vial Buenos Aires](https://buenosaires.gob.ar/jefaturadegabinete/movilidad/investigaciones-de-seguridad-vial)
+
+-[Estudios Observatorio vial nacional](https://www.argentina.gob.ar/seguridadvial/observatoriovialnacional/estudios)
+
+
+
+## contacto
+
+<span><a href="https://github.com/Fsando1993">mi perfil de github</a></span>
+<br>
+<span><a href="https://www.linkedin.com/in/ana-florencia-sandoval-876615286/">mi perfil de linkedin</a></span>
